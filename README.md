@@ -5,15 +5,15 @@ First trial of Jupyter Notebook setup <!--- test a comment here -->
 
 
 
-[//]: < [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hawk327/jupy/HEAD) OR >
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hawk327/jupy/HEAD)
-<!--- [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/) %update this -->
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hawk327/csc428_a2/HEAD)
+
 
 
 
 This simple [Jupyter](https://jupyter.org/) notebook demonstrates how the computational notebook format allows users to interleave text, code, and results in a single file.
 
-But, unless you have Jupyter notebook installed on your computer, all you can do is view the notebooks, not play with them. (See for yourself: If you click `428jupyter01.ipynb` in this GitHub repository, you will be able to read the notebook, but only as a static document.) This is where [Binder](https://mybinder.org) or Google's [Colaboratory](https://research.google.com/colaboratory/) environment come into play. Binder is a free, open-source web service that packages Jupyter notebooks inside an executable container, which can be run within a web browser, no installation required. Colab allows users with Google accounts to execute Jupyter notebooks on the Google cloud.
+But, unless you have Jupyter notebook installed on your computer, all you can do is view the notebooks, not play with them. (See for yourself: If you click `csc428_a2.ipynb` in this GitHub repository, you will be able to read the notebook, but only as a static document.) This is where [Binder](https://mybinder.org) or Google's [Colaboratory](https://research.google.com/colaboratory/) environment come into play. Binder is a free, open-source web service that packages Jupyter notebooks inside an executable container, which can be run within a web browser, no installation required. Colab allows users with Google accounts to execute Jupyter notebooks on the Google cloud.
 
 **To execute the notebook in Binder:**
 
