@@ -3,5 +3,5 @@ channels:
 dependencies:
   - python
   - numpy
-  - psutil
-  - toolz
+  - pandas
+  - scipy
